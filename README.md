@@ -1,4 +1,4 @@
-# Digital_Communications-Lab
+# Digital Communications Lab
 
 Digital Communication Lab Course 
 
